@@ -1,6 +1,8 @@
 ## Design 
 ###### Tables:
     1. Node
+![image](https://github.com/user-attachments/assets/bca89018-1674-4da2-b2ec-c4076c3ec7e8)
+
 ## Test in local
 1. Start my-sql database on port 3306.
     - One way is to start my-sql on docker container.
